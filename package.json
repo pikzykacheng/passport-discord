@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicholastay/passport-discord.git"
+    "url": "git+https://github.com/ItsPikzy/passport-discord"
   },
   "keywords": [
     "passport",
@@ -18,9 +18,9 @@
   "author": "Nicholas Tay <nexerq@gmail.com> (http://nicholastay.github.io)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nicholastay/passport-discord/issues"
+    "url": "https://github.com/ItsPikzy/passport-discord/issues"
   },
-  "homepage": "https://github.com/nicholastay/passport-discord#readme",
+  "homepage": "https://github.com/ItsPikzy/passport-discord#readme",
   "dependencies": {
     "passport-oauth2": "github:ItsPikzy/passport-oauth2"
   }
